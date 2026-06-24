@@ -1,6 +1,9 @@
-Welcome To online Bookstore ! 
+Welcome To online Bookstore !
 
 New Releases
+
 Academics | Fiction | Non Fiction | Comics & Graphic Novels
 
-Books Availible Java C Python C++
+Books Available: Java | C | Python | C++
+
+Get 50% offer now!!
